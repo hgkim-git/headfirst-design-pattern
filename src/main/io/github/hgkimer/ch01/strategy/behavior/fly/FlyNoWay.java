@@ -1,9 +1,9 @@
 package io.github.hgkimer.ch01.strategy.behavior.fly;
 
-public class FlyNoWay implements FlyBehavior{
+public class FlyNoWay implements FlyBehavior {
 
   @Override
   public void fly() {
-    System.out.println( "I can't fly!");
+    System.out.println("I can't fly!");
   }
 }
