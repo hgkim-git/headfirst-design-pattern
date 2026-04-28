@@ -1,7 +1,7 @@
-package io.github.hgkimer.ch01;
+package io.github.hgkimer.ch01.strategy;
 
-import io.github.hgkimer.ch01.behavior.fly.FlyNoWay;
-import io.github.hgkimer.ch01.duck.MallardDuck;
+import io.github.hgkimer.ch01.strategy.behavior.fly.FlyNoWay;
+import io.github.hgkimer.ch01.strategy.duck.MallardDuck;
 
 public class StrategyPatternMain {
 

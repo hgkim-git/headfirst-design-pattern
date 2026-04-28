@@ -1,7 +1,7 @@
-package io.github.hgkimer.ch01.duck;
+package io.github.hgkimer.ch01.strategy.duck;
 
-import io.github.hgkimer.ch01.behavior.fly.FlyBehavior;
-import io.github.hgkimer.ch01.behavior.quack.QuackBehavior;
+import io.github.hgkimer.ch01.strategy.behavior.fly.FlyBehavior;
+import io.github.hgkimer.ch01.strategy.behavior.quack.QuackBehavior;
 
 public abstract class Duck {
 

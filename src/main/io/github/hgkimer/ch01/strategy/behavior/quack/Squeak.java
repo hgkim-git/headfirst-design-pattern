@@ -1,4 +1,4 @@
-package io.github.hgkimer.ch01.behavior.quack;
+package io.github.hgkimer.ch01.strategy.behavior.quack;
 
 public class Squeak implements QuackBehavior{
 

@@ -1,4 +1,4 @@
-package io.github.hgkimer.ch01.behavior.fly;
+package io.github.hgkimer.ch01.strategy.behavior.fly;
 
 public class FlyNoWay implements FlyBehavior{
 
